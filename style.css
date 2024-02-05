@@ -1,0 +1,63 @@
+body{
+color: #B0B6DA;
+text-align: center;
+font-family: 'Orbitron', sans-serif;
+margin: 0;
+}
+
+.btn{
+  padding: 6px 12px;
+  background: white;
+  border: none;
+  font-family: inherit;
+  color: #3b2872;
+  font-weight: bolder;
+}
+
+.underline{
+  border-bottom: 4px solid white;
+}
+
+.main-logo{
+width:400px;
+}
+
+#hero{
+  background-image: url("img/univers.gif");
+  background-size: cover;
+  padding: 10px 0 350px 0;
+  text-shadow: 5px 5px 10px black;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+.box{
+width:500px;
+height: 40px;
+text-align: center;
+color: white;
+padding-top: 20px;
+}
+#box1{
+  background-color: #3b2872;
+}
+#box2{
+background-color: #3b2872;
+
+}
+#box3{background-color: #3b2872;}
+
+#box4{  background-color: #3b2872;}
+#box5{  background-color: #3b2872;}
+#box6{background-color: #3b2872;
+font-size: 20px;
+}
+
+.prg{
+  font-family: revert-layer;
+
+  font-size: 20px;
+}
